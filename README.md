@@ -16,6 +16,9 @@ These are my dotfiles. I made this repository because I need them for backup.
 | Bar            | polybar |
 | File manager   | ranger  |
 
+## Warning 
+These dotfiles are created to work in my system. If you want to use them for yours, please make sure to look for the packages that need to be installed.
+
 ## Credits
 
 Polybar theme is inspired by [Polybar-3](https://github.com/adi1090x/polybar-themes).
